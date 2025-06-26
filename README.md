@@ -21,11 +21,11 @@ Mi investigación se centra en:
 - **DeepLabCut** (tracking comportamental)
 - **Keypoint-MoSeq** (identificación de patrones comportamentales)
 - **Arduino** (automatización de tareas experimentales y control de estímulos)
-- **Bonsai** (adquisición y sincronización de video y señales en tiempo real)
+- **Bonsai** (adquisición y sincronización de distintas fuentes de información)
 - **Diseño de hardware comportamental**
-- **Diseño 3D** (FreeCAD, impresión 3D)
-- **OpenEphys** (registro de señales)
-- **Kilosort**, **Phy** (detección y clasificación de spikes)
+- **Diseño 3D** (CAD, Impresión 3D)
+- **OpenEphys** (registro de señales cerebrales)
+- **Kilosort**, **Phy** (detección y clasificación de disparos neuronales)
 
 ### 📫 Contacto
 
