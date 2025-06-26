@@ -20,7 +20,7 @@ Mi investigación se centra en:
 - **R** (análisis estadístico, visualización)
 - **DeepLabCut** (tracking comportamental)
 - **Keypoint-MoSeq** (identificación de patrones comportamentales)
-- **Arduino**
+- **Arduino** (automatización de tareas experimentales y control de estímulos)
 - **Bonsai** (adquisición y sincronización de video y señales en tiempo real)
 - **Diseño de hardware comportamental**
 - **Diseño 3D** (FreeCAD, impresión 3D)
